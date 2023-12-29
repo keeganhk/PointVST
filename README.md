@@ -2,6 +2,12 @@
 
 This is the official implementation of **[[PointVST](https://arxiv.org/pdf/2212.14197.pdf)] (TVCG 2023)**, a self-supervised learning approach for pre-training deep 3D point cloud backbone encoders.
 
+<p align="center"> <img src="https://github.com/keeganhk/PointVST/blob/master/sketch.png" width="40%"> </p>
+
+<p></p>
+<p></p>
+<p></p>
+
 <p align="center"> <img src="https://github.com/keeganhk/PointVST/blob/master/workflow.png" width="90%"> </p>
 
 
