@@ -1,0 +1,4 @@
+# ninja log v5
+1	21846	1703823465990095146	/data/zhang_20/420l_research/Ongoing/PointVST_Release/cdbs/CD/build/temp.linux-x86_64-cpython-39/chamferdist/knn_cpu.o	1dca104906e92319
+0	26751	1703823470898129673	/data/zhang_20/420l_research/Ongoing/PointVST_Release/cdbs/CD/build/temp.linux-x86_64-cpython-39/chamferdist/ext.o	4103bd211649975d
+0	88606	1703823532706555117	/data/zhang_20/420l_research/Ongoing/PointVST_Release/cdbs/CD/build/temp.linux-x86_64-cpython-39/chamferdist/knn.o	8452481ffef6bdea
