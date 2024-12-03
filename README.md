@@ -11,7 +11,7 @@ Given a backbone point cloud encoder, we pre-train its model parameters via our 
 
 The pre-trained backbones can be integrated into task-specific learning frameworks for downstream task scenarios (refer to the demo scripts provided in ```main/example_downstream```). 
 
-The used datasets can be downloaded from [here](https://drive.google.com/drive/folders/1YDMVOIJbYF3YbPCY007i5phkIi_l0elG?usp=drive_link), and the checkpoints of pre-trained backbone networks as well as various task-specific learning frameworks can also be downloaded from [here](https://drive.google.com/drive/folders/1f5NE_BuxvNFzY3dJFZdetX3cDHCTMrbU?usp=sharing).
+The used datasets can be downloaded from [here](https://pan.baidu.com/s/1FcspSJrEy7ObsfreD-vJlA?pwd=7kmq) (password: 7kmq), and the checkpoints of pre-trained backbone networks as well as various task-specific learning frameworks can also be downloaded from [here](https://pan.baidu.com/s/1LciO5xVtVxS2Tnzs8vkt7Q?pwd=iyxx) (password: iyxx).
 
 
 
